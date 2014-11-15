@@ -1,4 +1,4 @@
-## Create the Matrix
+## Create the Matrix. check if it is a square
 makeCacheMatrix <- function(x = matrix()) {
         x_inverse <- NULL
 
